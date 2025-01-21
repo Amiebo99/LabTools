@@ -1,0 +1,29 @@
+Altium Designer Pick and Place Locations
+C:\Users\mitch_\AppData\Local\TempReleases\Snapshot\1\Assembly\Pick Place\Pick Place for PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       13/01/25
+Time:       14:27
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment      Layer    Footprint           Center-X(mil) Center-Y(mil) Rotation Description                                                                 
+D4         P70-2100045R TopLayer Harwin_P70-2100045R 3700.788      3818.898      0        "Individual Smt Spring Loaded Pogo Pin With Peg, 5.5Mm Rohs Compliant: Yes" 
+D3         P70-2100045R TopLayer Harwin_P70-2100045R 3700.788      3937.008      0        "Individual Smt Spring Loaded Pogo Pin With Peg, 5.5Mm Rohs Compliant: Yes" 
+D2         P70-2100045R TopLayer Harwin_P70-2100045R 3464.566      3582.678      0        "Individual Smt Spring Loaded Pogo Pin With Peg, 5.5Mm Rohs Compliant: Yes" 
+D1         P70-2100045R TopLayer Harwin_P70-2100045R 3346.456      3582.678      0        "Individual Smt Spring Loaded Pogo Pin With Peg, 5.5Mm Rohs Compliant: Yes" 
+C4         P70-2100045R TopLayer Harwin_P70-2100045R 3700.788      4173.228      0        "Individual Smt Spring Loaded Pogo Pin With Peg, 5.5Mm Rohs Compliant: Yes" 
+C3         P70-2100045R TopLayer Harwin_P70-2100045R 3700.788      4291.338      0        "Individual Smt Spring Loaded Pogo Pin With Peg, 5.5Mm Rohs Compliant: Yes" 
+C2         P70-2100045R TopLayer Harwin_P70-2100045R 3464.566      4527.560      0        "Individual Smt Spring Loaded Pogo Pin With Peg, 5.5Mm Rohs Compliant: Yes" 
+C1         P70-2100045R TopLayer Harwin_P70-2100045R 3346.456      4527.560      0        "Individual Smt Spring Loaded Pogo Pin With Peg, 5.5Mm Rohs Compliant: Yes" 
+B4         P70-2100045R TopLayer Harwin_P70-2100045R 2755.906      3818.898      0        "Individual Smt Spring Loaded Pogo Pin With Peg, 5.5Mm Rohs Compliant: Yes" 
+B3         P70-2100045R TopLayer Harwin_P70-2100045R 2755.906      3937.008      0        "Individual Smt Spring Loaded Pogo Pin With Peg, 5.5Mm Rohs Compliant: Yes" 
+B2         P70-2100045R TopLayer Harwin_P70-2100045R 3110.236      3582.678      0        "Individual Smt Spring Loaded Pogo Pin With Peg, 5.5Mm Rohs Compliant: Yes" 
+B1         P70-2100045R TopLayer Harwin_P70-2100045R 2992.126      3582.678      0        "Individual Smt Spring Loaded Pogo Pin With Peg, 5.5Mm Rohs Compliant: Yes" 
+A4         P70-2100045R TopLayer Harwin_P70-2100045R 2755.906      4173.228      0        "Individual Smt Spring Loaded Pogo Pin With Peg, 5.5Mm Rohs Compliant: Yes" 
+A3         P70-2100045R TopLayer Harwin_P70-2100045R 2755.906      4291.338      0        "Individual Smt Spring Loaded Pogo Pin With Peg, 5.5Mm Rohs Compliant: Yes" 
+A2         P70-2100045R TopLayer Harwin_P70-2100045R 3110.236      4527.560      0        "Individual Smt Spring Loaded Pogo Pin With Peg, 5.5Mm Rohs Compliant: Yes" 
+A1         P70-2100045R TopLayer Harwin_P70-2100045R 2992.126      4527.560      0        "Individual Smt Spring Loaded Pogo Pin With Peg, 5.5Mm Rohs Compliant: Yes" 
